@@ -1,0 +1,1001 @@
+ERROR 2025-03-17 13:19:29,191 views 16616 2552 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:19:29,296 views 16616 19348 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:19:59,130 views 16616 14132 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:19:59,342 views 16616 11480 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:20:29,113 views 16616 1848 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:20:29,234 views 16616 8648 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:20:59,144 views 16616 14796 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:20:59,261 views 16616 15984 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:21:29,163 views 16616 19676 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:21:29,276 views 16616 10720 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:21:59,347 views 16616 5196 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:21:59,474 views 16616 19256 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:22:29,123 views 16616 11544 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:22:29,225 views 16616 10028 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:22:59,166 views 16616 8300 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:22:59,268 views 16616 7444 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:23:29,147 views 16616 18736 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:23:29,263 views 16616 11480 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:24:07,863 views 16616 8112 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-17 13:24:08,057 views 16616 3620 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-18 08:44:58,708 views 3648 19460 Invalid data provided: {'uuid': [ErrorDetail(string='inspection form with this uuid already exists.', code='unique')]}
+ERROR 2025-03-18 08:45:05,036 views 3648 19460 Invalid data provided: {'uuid': [ErrorDetail(string='inspection form with this uuid already exists.', code='unique')]}
+ERROR 2025-03-18 08:47:57,623 views 3648 6464 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-18 08:47:57,912 views 3648 12336 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-18 08:51:16,040 views 5556 8004 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-18 08:51:16,164 views 5556 13916 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-18 08:54:06,395 views 208 6832 Invalid data provided: {'accident_description': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-18 08:54:06,540 views 208 20396 Invalid data provided: {'investigating_body': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-03-18 09:47:41,770 views 10640 10320 Invalid data provided: {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}
+ERROR 2025-03-18 09:48:06,391 views 10640 5760 Invalid data provided: {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}
+ERROR 2025-03-18 09:50:49,697 views 10640 2724 Invalid data provided: {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}
+ERROR 2025-03-18 09:50:49,797 views 10640 4860 Invalid data provided: {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}
+ERROR 2025-03-19 13:09:18,346 views 12536 2216 Error retrieving evidence for incident_id 1: Cannot resolve keyword 'accident_id' into field. Choices are: Placeoflifting, accident_Id, accident_Id_id, created_at, id, metodeIifting, sampleNumber, sampleType, status, updated_at, userId, userId_id, uuid
+ERROR 2025-03-19 13:11:17,222 views 10684 1196 Error retrieving evidence for incident_id 1: Cannot resolve keyword 'accident_id' into field. Choices are: Placeoflifting, accident_Id, accident_Id_id, created_at, id, metodeIifting, sampleNumber, sampleType, status, updated_at, userId, userId_id, uuid
+ERROR 2025-03-19 13:27:50,494 views 18212 13868 Invalid data provided for Incident: {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}
+ERROR 2025-03-19 13:28:08,031 views 18212 13868 Invalid data provided for Evidence: {'uuid': [ErrorDetail(string='evidence with this uuid already exists.', code='unique')]}
+ERROR 2025-03-19 13:32:20,521 views 13472 10852 Invalid data provided for Evidence: {'uuid': [ErrorDetail(string='evidence with this uuid already exists.', code='unique')]}
+ERROR 2025-03-19 13:37:24,651 views 20240 16988 Invalid data provided for InspectionForm: {'uuid': [ErrorDetail(string='inspection form with this uuid already exists.', code='unique')]}
+ERROR Invalid data provided for Incident: {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}
+ERROR Invalid data provided for Incident: {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}
+ERROR Invalid data provided for Evidence: {'uuid': [ErrorDetail(string='evidence with this uuid already exists.', code='unique')], 'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR Invalid data provided for InspectionForm: {'uuid': [ErrorDetail(string='inspection form with this uuid already exists.', code='unique')]}
+ERROR Invalid data provided for Incident: {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}
+ERROR Failed to retrieve list of Evidence. No records found.
+ERROR Failed to retrieve list of Evidence. No records found.
+ERROR Failed to retrieve list of Evidence. No records found.
+ERROR Invalid data provided for Evidence: {'uuid': [ErrorDetail(string='evidence with this uuid already exists.', code='unique')], 'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR Failed to retrieve list of Evidence. No records found.
+ERROR Failed to retrieve list of Evidence. No records found.
+ERROR Failed to retrieve list of Evidence. No records found.
+ERROR Error while fetching user list: 'AnonymousUser' object has no attribute 'email'
+ERROR User registration failed: {'email': [ErrorDetail(string='Enter a valid email address.', code='invalid')]}
+ERROR Error while fetching user list: 'AnonymousUser' object has no attribute 'email'
+ERROR Invalid data provided for Complaint: {'uuid': [ErrorDetail(string='complaint with this uuid already exists.', code='unique')]}
+ERROR Incident with ID 32 not found.
+ERROR Invalid data provided for Complaint: {'uuid': [ErrorDetail(string='complaint with this uuid already exists.', code='unique')]}
+ERROR Logout failed: Invalid or expired refresh token
+ERROR Logout failed: Invalid or expired refresh token
+ERROR Logout failed: Invalid or expired refresh token
+ERROR Logout failed: Invalid or expired refresh token
+ERROR Invalid data provided for Incident: {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}
+ERROR Invalid data provided for Incident: {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}
+ERROR Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+2025-03-20 09:31:18,025 (ERROR)- forensicapp- Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+2025-03-20 09:35:16,285 - ERROR- forensicapp- Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2025-03-20 09:36:27,672 1596 18452 Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2025-03-20 09:36:52,861 12704 18124 Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2025-03-20 09:37:22,700 Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2025-03-20 10:46:02,553 Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2025-03-20 10:48:31,538 Invalid data provided for Evidence: {'uuid': [ErrorDetail(string='evidence with this uuid already exists.', code='unique')]}
+ERROR 2025-03-20 10:50:50,559 Invalid data provided for Evidence: {'uuid': [ErrorDetail(string='evidence with this uuid already exists.', code='unique')]}
+ERROR 2025-03-20 10:51:03,955 Invalid data provided for Evidence: {'uuid': [ErrorDetail(string='evidence with this uuid already exists.', code='unique')]}
+ERROR 2025-03-23 09:16:27,684 Failed to create Incident instance(s): duplicate key value violates unique constraint "forensicapp_incident_uuid_key"
+DETAIL:  Key (uuid)=(123e4567-e89b-12d3-a456-426614174000) already exists.
+
+ERROR 2025-03-23 09:16:35,997 Invalid ordering field: -id. Using default ordering.
+ERROR 2025-03-23 09:16:35,998 Failed to retrieve Incident: Cannot resolve keyword 'id' into field. Choices are: accident_date, accident_description, accident_location, action_taken, category_accident, causes_of_fire, color, created_at, date_discovery, evidences, inspection_forms, inspection_time, investigating_body, latitude, longitude, method, resulting_damages, sections, status, typeAccident, updated_at, user, user_id, uuid
+ERROR 2025-03-23 09:17:08,353 Invalid ordering field: -id. Using default ordering.
+ERROR 2025-03-23 09:17:08,354 Failed to retrieve Incident: Cannot resolve keyword 'id' into field. Choices are: accident_date, accident_description, accident_location, action_taken, category_accident, causes_of_fire, color, created_at, date_discovery, evidences, inspection_forms, inspection_time, investigating_body, latitude, longitude, method, resulting_damages, sections, status, typeAccident, updated_at, user, user_id, uuid
+ERROR 2025-03-23 09:19:17,880 Invalid ordering field: -id. Using default ordering.
+ERROR 2025-03-23 09:19:17,881 Failed to retrieve Incident: Cannot resolve keyword 'id' into field. Choices are: accident_date, accident_description, accident_location, action_taken, category_accident, causes_of_fire, color, created_at, date_discovery, evidences, inspection_forms, inspection_time, investigating_body, latitude, longitude, method, resulting_damages, sections, status, typeAccident, updated_at, user, user_id, uuid
+ERROR 2025-03-23 09:19:37,250 Invalid ordering field: -id. Using default ordering.
+ERROR 2025-03-23 09:19:37,250 Failed to retrieve Incident: Cannot resolve keyword 'id' into field. Choices are: accident_date, accident_description, accident_location, action_taken, category_accident, causes_of_fire, color, created_at, date_discovery, evidences, inspection_forms, inspection_time, investigating_body, latitude, longitude, method, resulting_damages, sections, status, typeAccident, updated_at, user, user_id, uuid
+ERROR 2025-03-23 09:20:13,555 Invalid ordering field: -id. Using default ordering.
+ERROR 2025-03-23 09:20:13,556 Failed to retrieve Incident: Cannot resolve keyword 'id' into field. Choices are: accident_date, accident_description, accident_location, action_taken, category_accident, causes_of_fire, color, created_at, date_discovery, evidences, inspection_forms, inspection_time, investigating_body, latitude, longitude, method, resulting_damages, sections, status, typeAccident, updated_at, user, user_id, uuid
+ERROR 2025-03-23 09:21:53,135 Failed to create Incident instance(s): duplicate key value violates unique constraint "forensicapp_incident_uuid_key"
+DETAIL:  Key (uuid)=(123e4567-e89b-12d3-a456-426614174000) already exists.
+
+ERROR 2025-03-23 09:22:26,689 Invalid data provided for Incident: {'uuid': [ErrorDetail(string='Must be a valid UUID.', code='invalid')]}
+ERROR 2025-03-23 09:25:02,835 Invalid data provided for Incident: {'uuid': [ErrorDetail(string='Must be a valid UUID.', code='invalid')]}
+ERROR 2025-03-23 09:25:12,811 Invalid ordering field: -id. Using default ordering.
+ERROR 2025-03-23 09:25:12,812 Failed to retrieve Incident: Cannot resolve keyword 'id' into field. Choices are: accident_date, accident_description, accident_location, action_taken, category_accident, causes_of_fire, color, created_at, date_discovery, evidences, inspection_forms, inspection_time, investigating_body, latitude, longitude, method, resulting_damages, sections, status, typeAccident, updated_at, user, user_id, uuid
+ERROR 2025-03-23 09:26:01,800 Invalid ordering field: -id. Using default ordering.
+ERROR 2025-03-23 09:26:01,801 Failed to retrieve Incident: Cannot resolve keyword 'id' into field. Choices are: accident_date, accident_description, accident_location, action_taken, category_accident, causes_of_fire, color, created_at, date_discovery, evidences, inspection_forms, inspection_time, investigating_body, latitude, longitude, method, resulting_damages, sections, status, typeAccident, updated_at, user, user_id, uuid
+ERROR 2025-03-23 09:28:15,096 Invalid ordering field: -id. Using default ordering.
+ERROR 2025-03-23 09:28:15,097 Failed to retrieve Incident: Cannot resolve keyword 'id' into field. Choices are: accident_date, accident_description, accident_location, action_taken, category_accident, causes_of_fire, color, created_at, date_discovery, evidences, inspection_forms, inspection_time, investigating_body, latitude, longitude, method, resulting_damages, sections, status, typeAccident, updated_at, user, user_id, uuid
+ERROR 2025-03-23 09:28:20,273 Invalid data provided for Incident: {'uuid': [ErrorDetail(string='Must be a valid UUID.', code='invalid')]}
+ERROR 2025-03-23 09:28:59,601 Invalid ordering field: -id. Using default ordering.
+ERROR 2025-03-23 09:28:59,602 Failed to retrieve Incident: Cannot resolve keyword 'id' into field. Choices are: accident_date, accident_description, accident_location, action_taken, category_accident, causes_of_fire, color, created_at, date_discovery, evidences, inspection_forms, inspection_time, investigating_body, latitude, longitude, method, resulting_damages, sections, status, typeAccident, updated_at, user, user_id, uuid
+ERROR 2025-03-23 09:29:46,041 Failed to delete Incident: ['“1234-5678” is not a valid UUID.']
+ERROR 2025-03-23 09:31:19,886 Failed to delete Incident: ['“1234-5678” is not a valid UUID.']
+ERROR 2025-03-23 09:31:27,981 Failed to delete Incident: ['“1234-5678” is not a valid UUID.']
+ERROR 2025-03-23 09:32:02,116 Failed to delete Incident: ['“1234-5678” is not a valid UUID.']
+ERROR 2025-03-23 09:32:22,736 Failed to delete Incident: ['“1234-5678” is not a valid UUID.']
+ERROR 2025-03-23 09:33:14,468 Failed to delete Incident: ['“1234-5678” is not a valid UUID.']
+ERROR 2025-03-23 09:35:54,963 Failed to delete Incident: ['“1234-5678” is not a valid UUID.']
+ERROR 2025-03-23 09:35:58,882 Failed to delete Incident: ['“1234-5678” is not a valid UUID.']
+ERROR 2025-03-23 09:36:16,807 Failed to delete Incident: ['“1234-5678” is not a valid UUID.']
+ERROR 2025-03-23 09:38:10,989 Failed to delete Incident: operator does not exist: character varying = uuid
+LINE 1: ...app_incident" WHERE "forensicapp_incident"."uuid" = 'fa18487...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+ERROR 2025-03-23 09:38:42,360 Failed to retrieve Incident: operator does not exist: character varying = uuid
+LINE 1: ...app_incident" WHERE "forensicapp_incident"."uuid" = 'fa18487...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+ERROR 2025-03-23 09:43:29,495 Invalid data provided for Incident: {'uuid': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2025-03-23 09:44:10,787 Invalid data provided for Incident: {'uuid': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2025-03-23 09:44:30,314 Failed to delete Incident: ['“1234-5678” is not a valid UUID.']
+ERROR 2025-03-23 09:51:57,521 Failed to delete Incident: ['“1234-5678” is not a valid UUID.']
+ERROR 2025-03-23 09:53:11,592 Invalid data provided for Evidence: {'uuid': [ErrorDetail(string='This field is required.', code='required')], 'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2025-03-23 09:53:59,262 Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2025-03-23 09:54:23,577 Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='This field is required.', code='required')]}
+ERROR 2025-03-23 09:56:57,987 Failed to retrieve list of Evidence. No records found.
+ERROR 2025-03-23 10:06:59,167 Failed to retrieve Incident: operator does not exist: character varying = uuid
+LINE 1: ...app_incident" WHERE "forensicapp_incident"."uuid" = 'fa18487...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+ERROR 2025-03-23 10:08:03,360 Failed to retrieve Incident: operator does not exist: character varying = uuid
+LINE 1: ...app_incident" WHERE "forensicapp_incident"."uuid" = 'fa18487...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+
+ERROR 2025-03-23 10:08:30,762 Failed to retrieve Incident: 'UUID' object has no attribute 'replace'
+ERROR 2025-03-23 10:10:14,461 Failed to retrieve Incident: 'UUID' object has no attribute 'replace'
+ERROR 2025-03-23 10:11:06,758 Failed to retrieve Incident: 'UUID' object has no attribute 'replace'
+ERROR 2025-03-23 10:11:22,971 Failed to retrieve Incident: 'UUID' object has no attribute 'replace'
+ERROR 2025-03-23 10:12:45,237 Failed to retrieve Incident: 'UUID' object has no attribute 'replace'
+ERROR 2025-03-23 10:13:50,155 Failed to retrieve Incident: 'UUID' object has no attribute 'replace'
+ERROR 2025-03-23 10:44:23,844 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:23,980 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:24,119 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:24,261 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:24,395 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:24,536 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:24,677 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:25,288 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:25,434 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:25,580 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:25,756 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:25,897 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:26,030 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:44:26,162 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 10:45:25,924 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 10:45:33,178 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 10:46:19,296 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 10:46:41,537 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 10:46:53,673 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 10:48:10,542 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 10:48:18,557 No evidence found for incident_id: 27
+ERROR 2025-03-23 10:48:29,974 No inspection forms found for incident_id: 39
+ERROR 2025-03-23 10:48:29,978 No evidence found for incident_id: 39
+ERROR 2025-03-23 10:48:36,561 No evidence found for incident_id: 37
+ERROR 2025-03-23 10:48:36,572 No inspection forms found for incident_id: 37
+ERROR 2025-03-23 10:49:45,795 No inspection forms found for incident_id: 37
+ERROR 2025-03-23 10:49:45,798 No evidence found for incident_id: 37
+ERROR 2025-03-23 10:49:55,475 No evidence found for incident_id: 27
+ERROR 2025-03-23 10:50:20,000 No evidence found for incident_id: 27
+ERROR 2025-03-23 10:50:20,999 No evidence found for incident_id: 27
+ERROR 2025-03-23 10:50:25,012 No evidence found for incident_id: 27
+ERROR 2025-03-23 10:50:32,444 No evidence found for incident_id: 27
+ERROR 2025-03-23 10:50:39,899 No evidence found for incident_id: 27
+ERROR 2025-03-23 10:51:13,860 No evidence found for incident_id: 39
+ERROR 2025-03-23 10:57:11,058 Error retrieving evidence for incident_uuid 8085dbc3-d4ae-4d80-8a41-d2c33ae0b52c: 'UUID' object has no attribute 'replace'
+ERROR 2025-03-23 11:03:32,569 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:32,708 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:32,838 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:32,953 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:33,075 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:33,202 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:33,429 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:33,911 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:34,032 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:34,159 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:34,295 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:34,439 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:34,585 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:03:34,710 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:03,173 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:03,382 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:03,482 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:03,579 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:03,670 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:03,765 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:03,856 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:04,304 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:04,411 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:04,518 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:04,627 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:04,735 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:04,829 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:22:04,947 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:24,903 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:25,009 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:25,117 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:25,224 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:25,331 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:25,442 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:25,555 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:26,084 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:26,196 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:26,286 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:26,394 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:26,507 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:26,598 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:24:26,695 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:28:58,967 No evidence found for accident_uuid: 5f36a29b-7002-4f3d-ae89-f9ddff59a142
+ERROR 2025-03-23 11:33:26,377 Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='Invalid pk "13" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:33:26,525 Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='Invalid pk "13" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:33:26,643 Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='Invalid pk "13" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:33:26,765 Invalid data provided for Evidence: {'accident_Id': [ErrorDetail(string='Invalid pk "13" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:33:27,332 Invalid data provided for InspectionForm: {'form_id': [ErrorDetail(string='Invalid pk "13" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:33:27,440 Invalid data provided for InspectionForm: {'form_id': [ErrorDetail(string='Invalid pk "13" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:33:27,557 Invalid data provided for InspectionForm: {'form_id': [ErrorDetail(string='Invalid pk "13" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:33:27,778 Invalid data provided for InspectionForm: {'form_id': [ErrorDetail(string='Invalid pk "13" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-03-23 11:37:44,404 No Evidence instances found to delete.
+ERROR 2025-03-23 11:39:11,936 No evidence found for accident_uuid: 8085dbc3-d4ae-4d80-8a41-d2c33ae0b52c
+ERROR 2025-03-23 11:50:17,325 Error retrieving inspection forms for incident_id 84e504b2-7e2e-49cc-9f79-c616a7ef7528: Cannot resolve keyword 'from_uuid' into field. Choices are: created_at, form_uuid, id, isChemistryLab, isCriminalElectronic, isCriminalPrint, isDNALab, isForensicLab, isWeaponsLab, status, updated_at, userId, userId_id, uuid
+ERROR 2025-03-23 11:50:19,233 Error retrieving inspection forms for incident_id 84e504b2-7e2e-49cc-9f79-c616a7ef7528: Cannot resolve keyword 'from_uuid' into field. Choices are: created_at, form_uuid, id, isChemistryLab, isCriminalElectronic, isCriminalPrint, isDNALab, isForensicLab, isWeaponsLab, status, updated_at, userId, userId_id, uuid
+ERROR 2025-03-23 11:58:36,758 No evidence found for accident_uuid: 9296035d-bb3f-42b8-b578-2ee20c877289
+ERROR 2025-03-23 11:58:36,761 Failed to retrieve Incident: No Incident matches the given query.
+ERROR 2025-03-23 12:15:16,721 No inspection forms found for incident_id: 317b9b67-59a4-4ad1-8380-0932f758229e
+ERROR 2025-03-23 12:15:20,534 No inspection forms found for incident_id: 317b9b67-59a4-4ad1-8380-0932f758229e
+ERROR 2025-03-23 12:33:44,526 No evidence found for accident_uuid: 76e0d6ae-219c-4b72-9167-4f21e21bcad4
+ERROR 2025-03-23 12:33:44,527 No inspection forms found for incident_id: 76e0d6ae-219c-4b72-9167-4f21e21bcad4
+ERROR 2025-03-23 12:35:13,725 No inspection forms found for incident_id: 268ca004-1427-4064-b2f7-0e88191f5444
+ERROR 2025-03-23 12:39:11,149 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 12:51:44,947 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 12:51:52,119 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 12:51:58,176 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 12:51:59,703 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 12:52:12,804 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 12:59:58,263 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 13:00:10,128 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 13:00:25,721 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 13:01:33,611 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 13:05:04,043 User login failed: No active account found with the given credentials
+ERROR 2025-03-23 13:05:21,323 User login failed: No active account found with the given credentials
+ERROR 2025-03-24 08:23:59,409 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:24:20,745 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:24:49,875 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:24:59,870 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:25:10,961 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:25:22,889 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:25:54,521 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:26:35,839 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:26:37,851 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:26:39,996 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:27:12,831 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:27:13,897 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:28:01,572 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:29:30,457 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:30:13,842 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 08:31:21,202 No evidence found for accident_uuid: 09178a82-c1d5-4b57-9b82-1dda9964a1ab
+ERROR 2025-03-24 09:03:16,466 User login failed: No active account found with the given credentials
+ERROR 2025-03-24 09:03:16,623 User login failed: No active account found with the given credentials
+ERROR 2025-03-24 09:03:17,098 User login failed: No active account found with the given credentials
+ERROR 2025-03-24 09:03:17,389 User login failed: No active account found with the given credentials
+ERROR 2025-03-24 09:03:17,403 User login failed: No active account found with the given credentials
+ERROR 2025-03-24 09:03:17,723 User login failed: No active account found with the given credentials
+ERROR 2025-03-24 09:03:17,982 User login failed: No active account found with the given credentials
+ERROR 2025-03-24 09:03:18,121 User login failed: No active account found with the given credentials
+ERROR 2025-03-24 09:03:27,503 User login failed: No active account found with the given credentials
+ERROR 2025-03-24 09:03:45,586 User login failed: No active account found with the given credentials
+ERROR 2025-03-24 09:36:24,764 Update failed: User with ID 6 not found
+ERROR 2025-03-24 09:36:29,403 Unexpected error during user update: name 'new_' is not defined
+ERROR 2025-03-24 09:37:00,677 Unexpected error during user update: name 'new_' is not defined
+ERROR 2025-03-26 09:54:24,653 Logout failed: Invalid or expired refresh token
+ERROR 2025-03-26 09:54:43,249 Logout failed: Invalid or expired refresh token
+ERROR 2025-04-22 12:39:19,558 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:19,673 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:19,792 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:19,911 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:20,036 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:20,143 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:20,258 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:20,367 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:20,577 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:20,714 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:20,832 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:20,963 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:21,081 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:21,321 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:21,445 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:21,564 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:21,671 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:21,788 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:21,898 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:22,022 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:22,124 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:22,237 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:22,344 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:22,452 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:22,697 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:22,808 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:22,917 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:23,031 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:23,144 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:23,362 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:23,472 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:23,582 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:23,709 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:23,824 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:23,946 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:24,051 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:24,151 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:24,281 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:24,375 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:24,493 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:24,719 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:24,825 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:24,955 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:25,066 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:25,179 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:25,286 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:25,396 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:25,515 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:25,637 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:25,744 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:26,000 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:26,806 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:26,923 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:27,023 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:27,138 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:27,359 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:27,494 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:27,613 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:27,734 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:27,858 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:27,968 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:28,071 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:28,179 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:28,303 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:28,534 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:28,760 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:28,974 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:29,075 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:29,180 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:29,305 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:29,536 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:29,652 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:29,753 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:29,864 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:29,973 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:30,078 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:30,203 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:30,319 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:30,443 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:30,545 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:30,663 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:30,784 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:30,888 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:30,994 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:31,101 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:31,215 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:31,330 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:31,429 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:31,546 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:31,828 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:31,932 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:32,042 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:32,152 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:32,260 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:32,378 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:32,498 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:32,621 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:32,740 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:33,041 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-22 12:39:33,154 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "9" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:25:42,487 Unexpected error during user deletion: type object 'RefreshToken' has no attribute 'objects'
+ERROR 2025-04-23 13:25:53,929 User registration failed: {'email': [ErrorDetail(string='custom user with this email already exists.', code='unique')]}
+ERROR 2025-04-23 13:26:22,413 User login failed: No active account found with the given credentials
+ERROR 2025-04-23 13:26:45,167 User login failed: No active account found with the given credentials
+ERROR 2025-04-23 13:27:03,333 User login failed: No active account found with the given credentials
+ERROR 2025-04-23 13:27:55,968 User login failed: No active account found with the given credentials
+ERROR 2025-04-23 13:27:58,996 User login failed: No active account found with the given credentials
+ERROR 2025-04-23 13:28:15,502 User registration failed: {'email': [ErrorDetail(string='custom user with this email already exists.', code='unique')]}
+ERROR 2025-04-23 13:28:20,843 User registration failed: {'email': [ErrorDetail(string='Enter a valid email address.', code='invalid')]}
+ERROR 2025-04-23 13:28:42,949 User login failed: No active account found with the given credentials
+ERROR 2025-04-23 13:29:17,051 User login failed: No active account found with the given credentials
+ERROR 2025-04-23 13:40:45,000 User registration failed: {'username': [ErrorDetail(string='custom user with this username already exists.', code='unique')]}
+ERROR 2025-04-23 13:50:01,509 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:01,579 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:01,626 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:01,675 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:01,721 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:01,772 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:01,931 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:01,997 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:02,674 Invalid data provided for InspectionForm: {'uuid': [ErrorDetail(string='inspection form with this uuid already exists.', code='unique')]}
+ERROR 2025-04-23 13:50:02,727 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:02,876 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:02,937 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:02,983 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:03,049 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:03,225 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-04-23 13:50:03,294 Invalid data provided for InspectionForm: {'userId': [ErrorDetail(string='Invalid pk "0" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-05-04 11:31:12,106 User registration failed: {'email': [ErrorDetail(string='custom user with this email already exists.', code='unique')], 'username': [ErrorDetail(string='custom user with this username already exists.', code='unique')]}
+ERROR 2025-05-04 11:32:03,970 Unexpected error during user creation: column "rank" of relation "accounts_customuser" does not exist
+LINE 1: ..., "email", "username", "first_name", "last_name", "rank", "p...
+                                                             ^
+
+ERROR 2025-05-04 12:52:11,692 User login failed: No active account found with the given credentials
+ERROR 2025-05-05 10:18:20,685 User registration failed: {'username': [ErrorDetail(string='custom user with this username already exists.', code='unique')]}
+ERROR 2025-05-05 10:18:36,415 Unexpected error during user creation: First name is required
+ERROR 2025-05-08 11:25:58,493 Unexpected error during user creation: column "full_name" of relation "accounts_customuser" does not exist
+LINE 1: ...last_login", "is_superuser", "email", "username", "full_name...
+                                                             ^
+
+ERROR 2025-05-12 08:37:25,706 failed to find images for accident with this uuid
+ERROR 2025-05-12 08:48:12,861 failed to find images for accident with this uuid
+ERROR 2025-05-12 08:51:10,507 failed to find images for accident with this uuid
+ERROR 2025-05-12 08:52:47,244 User login failed: No active account found with the given credentials
+ERROR 2025-05-12 09:00:07,433 failed to find accident with this uuid
+ERROR 2025-05-12 11:36:49,001 Incident with UUID 305bafb0-53d8-4502-ab11-2e5fa20bf36d not found.
+ERROR 2025-05-12 11:37:17,220 Error retrieving incidents sent to admin: Cannot resolve keyword 'sendtoadmin' into field. Choices are: accident_date, accident_description, accident_location, action_taken, category_accident, causes_of_fire, color, created_at, date_discovery, id, inspection_time, investigating_body, latitude, longitude, method, resulting_damages, sections, send_to_admin, status, typeAccident, updated_at, user, user_id, uuid
+ERROR 2025-05-12 12:11:15,347 User login failed: No active account found with the given credentials
+ERROR 2025-05-12 12:11:33,323 User login failed: No active account found with the given credentials
+ERROR 2025-05-12 12:11:38,225 User login failed: No active account found with the given credentials
+ERROR 2025-05-12 12:13:09,438 User login failed: No active account found with the given credentials
+ERROR 2025-05-12 12:13:10,877 User login failed: No active account found with the given credentials
+ERROR 2025-05-12 12:13:11,498 User login failed: No active account found with the given credentials
+ERROR 2025-05-13 11:30:23,529 failed to find images for accident with this uuid
+ERROR 2025-05-13 11:30:31,145 failed to find images for accident with this uuid
+ERROR 2025-05-13 11:31:05,460 failed to find images for accident with this uuid
+ERROR 2025-05-13 11:31:29,802 No evidence found for accident_uuid: 305bafb0-53d8-4502-ab11-2e5fa20bf36d
+ERROR 2025-05-13 12:38:17,085 User login failed: No active account found with the given credentials
+ERROR 2025-05-13 13:01:11,858 No Complaint instances found to delete.
+ERROR 2025-05-13 13:04:35,068 No Incident instances found to delete.
+ERROR 2025-05-14 10:32:48,439 User login failed: No active account found with the given credentials
+ERROR 2025-05-14 10:33:08,214 User login failed: No active account found with the given credentials
+ERROR 2025-05-15 11:55:45,461 User login failed: No active account found with the given credentials
+ERROR 2025-05-15 11:55:46,910 User login failed: No active account found with the given credentials
+ERROR 2025-05-17 10:29:14,006 failed to find images for accident with this uuid
+ERROR 2025-05-17 11:13:18,560 No evidence found for accident_uuid: d5761010-2384-4114-b667-ad521ccbbc81
+ERROR 2025-05-17 12:06:40,081 No evidence found for accident_uuid: d5761010-2384-4114-b667-ad521ccbbc81
+ERROR 2025-05-18 10:25:15,213 User login failed: No active account found with the given credentials
+ERROR 2025-05-18 10:25:18,378 User login failed: No active account found with the given credentials
+ERROR 2025-05-18 10:25:19,707 User login failed: No active account found with the given credentials
+ERROR 2025-05-18 10:26:20,729 No evidence found for accident_uuid: 58a5eb0f-477a-4b47-b589-0288b341134c
+ERROR 2025-05-18 10:26:22,758 failed to find images for accident with this uuid
+ERROR 2025-05-18 10:32:30,127 No evidence found for accident_uuid: 230ac657-add3-4459-a5c0-3badebf72ffe
+ERROR 2025-05-18 10:32:31,511 failed to find images for accident with this uuid
+ERROR 2025-05-18 10:33:09,519 No evidence found for accident_uuid: 230ac657-add3-4459-a5c0-3badebf72ffe
+ERROR 2025-05-18 10:33:11,316 failed to find images for accident with this uuid
+ERROR 2025-05-18 10:33:52,273 No evidence found for accident_uuid: 11a08411-32e1-43a0-890b-2b7739db8ac1
+ERROR 2025-05-18 10:33:54,884 failed to find images for accident with this uuid
+ERROR 2025-05-18 10:33:57,285 No evidence found for accident_uuid: 11a08411-32e1-43a0-890b-2b7739db8ac1
+ERROR 2025-05-18 10:33:58,111 failed to find images for accident with this uuid
+ERROR 2025-05-18 10:35:37,866 failed to find accident with this uuid
+ERROR 2025-05-18 10:38:12,436 failed to find images for accident with this uuid
+ERROR 2025-05-18 10:38:18,208 failed to find images for accident with this uuid
+ERROR 2025-05-18 10:38:25,518 failed to find images for accident with this uuid
+ERROR 2025-05-18 10:47:17,771 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 10:47:28,544 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 12:46:44,002 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 12:51:02,796 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 12:52:59,127 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 12:56:42,276 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 12:56:57,661 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 12:57:41,871 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 13:01:17,207 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 13:01:49,789 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 13:08:44,465 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 13:10:30,353 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 13:11:48,622 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 13:13:33,892 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 13:13:48,848 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 13:14:22,770 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 13:26:25,373 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 14:31:58,009 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 14:40:49,248 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-18 14:46:30,522 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-19 08:28:54,056 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-19 08:33:39,449 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-19 08:34:16,530 No evidence found for accident_uuid: 8cd843b9-7936-4162-9f0e-24aa8823e654
+ERROR 2025-05-19 08:52:36,761 Invalid data provided for Incident: [{'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}, {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}, {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}, {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}, {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}]
+ERROR 2025-05-19 08:55:46,368 No evidence found for accident_uuid: 555e4567-e89b-12d3-a456-426614174005
+ERROR 2025-05-19 08:55:55,030 No evidence found for accident_uuid: 555e4567-e89b-12d3-a456-426614174005
+ERROR 2025-05-19 08:55:55,035 No inspection forms found for incident_id: 555e4567-e89b-12d3-a456-426614174005
+ERROR 2025-05-19 08:56:09,124 No evidence found for accident_uuid: 555e4567-e89b-12d3-a456-426614174005
+ERROR 2025-05-19 08:56:09,130 No inspection forms found for incident_id: 555e4567-e89b-12d3-a456-426614174005
+ERROR 2025-05-19 08:56:14,592 No evidence found for accident_uuid: 555e4567-e89b-12d3-a456-426614174005
+ERROR 2025-05-19 08:56:23,629 No evidence found for accident_uuid: 444e4567-e89b-12d3-a456-426614174004
+ERROR 2025-05-19 09:29:38,987 No evidence found for accident_uuid: 70a7fbe3-e695-4c2d-ba67-a729f6132b7f
+ERROR 2025-05-19 09:30:56,349 Failed to create Incident instance(s): duplicate key value violates unique constraint "forensicapp_incident_uuid_key"
+DETAIL:  Key (uuid)=(abc12345) already exists.
+
+ERROR 2025-05-19 09:31:35,709 No evidence found for accident_uuid: 70a7fbe3-e695-4c2d-ba67-a729f6132b7f
+ERROR 2025-05-19 09:36:11,763 No evidence found for accident_uuid: 70a7fbe3-e695-4c2d-ba67-a729f6132b7f
+ERROR 2025-05-19 10:30:45,157 No evidence found for accident_uuid: 70a7fbe3-e695-4c2d-ba67-a729f6132b7f
+ERROR 2025-05-19 11:41:57,676 Invalid data provided for Incident: {'uuid': [ErrorDetail(string='incident with this uuid already exists.', code='unique')]}
+ERROR 2025-05-21 09:56:34,324 failed to find accident with this uuid
+ERROR 2025-05-21 09:56:36,457 failed to find accident with this uuid
+ERROR 2025-05-21 09:56:37,663 failed to find accident with this uuid
+ERROR 2025-05-21 09:56:39,945 failed to find accident with this uuid
+ERROR 2025-05-21 10:02:05,169 failed to find accident with this uuid
+ERROR 2025-05-21 10:02:07,213 failed to find accident with this uuid
+ERROR 2025-05-21 10:02:08,930 failed to find accident with this uuid
+ERROR 2025-05-21 10:02:09,851 failed to find accident with this uuid
+ERROR 2025-05-21 10:02:11,325 failed to find accident with this uuid
+ERROR 2025-05-21 10:36:57,264 failed to find accident with this uuid
+ERROR 2025-05-21 10:36:59,223 No inspection forms found for incident_id: 333e4567-e89b-12d3-a456-426614174003
+ERROR 2025-05-21 10:36:59,224 No evidence found for accident_uuid: 333e4567-e89b-12d3-a456-426614174003
+ERROR 2025-05-21 10:37:01,899 No evidence found for accident_uuid: 111e4567-e89b-12d3-a456-426614174001
+ERROR 2025-05-21 11:05:23,947 No evidence found for accident_uuid: 444e4567-e89b-12d3-a456-426614174004
+ERROR 2025-05-21 11:05:45,980 failed to find accident with this uuid
+ERROR 2025-05-21 11:05:48,822 failed to find accident with this uuid
+ERROR 2025-05-21 11:05:50,580 failed to find accident with this uuid
+ERROR 2025-05-21 11:05:51,586 failed to find accident with this uuid
+ERROR 2025-05-21 13:03:49,990 No evidence found for accident_uuid: 222e4567-e89b-12d3-a456-426614174002
+ERROR 2025-05-21 13:03:51,135 failed to find accident with this uuid
+ERROR 2025-05-21 13:03:54,352 No evidence found for accident_uuid: 333e4567-e89b-12d3-a456-426614174003
+ERROR 2025-05-21 13:03:55,575 failed to find accident with this uuid
+ERROR 2025-05-21 13:03:58,423 No evidence found for accident_uuid: 444e4567-e89b-12d3-a456-426614174004
+ERROR 2025-05-21 13:03:59,545 failed to find accident with this uuid
+ERROR 2025-05-21 13:04:12,409 No evidence found for accident_uuid: 111e4567-e89b-12d3-a456-426614174001
+ERROR 2025-05-21 13:04:13,455 failed to find accident with this uuid
+ERROR 2025-05-21 13:04:16,676 No evidence found for accident_uuid: 555e4567-e89b-12d3-a456-426614174005
+ERROR 2025-05-21 13:04:18,072 failed to find accident with this uuid
+ERROR 2025-05-21 13:06:40,537 failed to find accident with this uuid
+ERROR 2025-05-21 13:06:49,045 failed to find accident with this uuid
+ERROR 2025-05-21 13:10:53,231 failed to find accident with this uuid
+ERROR 2025-05-21 13:10:59,493 failed to find accident with this uuid
+ERROR 2025-05-21 13:11:11,658 failed to find accident with this uuid
+ERROR 2025-05-21 13:11:43,858 failed to find accident with this uuid
+ERROR 2025-05-21 13:12:40,210 failed to find accident with this uuid
+ERROR 2025-05-21 13:13:12,530 failed to find accident with this uuid
+ERROR 2025-05-21 13:13:15,618 failed to find accident with this uuid
+ERROR 2025-05-21 13:13:16,549 failed to find accident with this uuid
+ERROR 2025-05-21 13:13:20,278 failed to find accident with this uuid
+ERROR 2025-05-21 13:13:33,940 failed to find accident with this uuid
+ERROR 2025-05-21 14:10:25,063 No evidence found for accident_uuid: 444e4567-e89b-12d3-a456-426614174004
+ERROR 2025-05-21 14:21:58,553 failed to find images for accident with this uuid
+ERROR 2025-05-21 14:22:13,582 failed to find images for accident with this uuid
+ERROR 2025-05-21 14:22:41,649 failed to find images for accident with this uuid
+ERROR 2025-05-21 14:24:47,395 failed to find images for accident with this uuid
+ERROR 2025-05-22 11:49:28,970 failed to find images for accident with this uuid
+ERROR 2025-05-22 11:50:22,793 failed to find images for accident with this uuid
+ERROR 2025-05-22 11:50:42,778 failed to find images for accident with this uuid
+ERROR 2025-05-22 11:57:34,668 failed to find images for accident with this uuid
+ERROR 2025-05-22 12:03:32,655 failed to find images for accident with this uuid
+ERROR 2025-05-22 12:03:59,802 No evidence found for accident_uuid: f6793b55-e4c5-42a8-8105-9d51be3128be
+ERROR 2025-05-22 12:14:52,601 failed to find accident with this uuid
+ERROR 2025-05-24 08:21:33,900 User login failed: No active account found with the given credentials
+ERROR 2025-05-24 08:21:33,970 User login failed: No active account found with the given credentials
+ERROR 2025-05-24 08:22:21,524 User registration failed: {'username': [ErrorDetail(string='custom user with this username already exists.', code='unique')]}
+ERROR 2025-05-24 08:29:53,884 Error retrieving complaints: Cannot resolve keyword 'section' into field. Choices are: action, created_at, created_at_offline, id, isHidden, name, rank, section_id, section_uuid, status, updated_at, updated_at_offline, userId, uuid
+ERROR 2025-05-24 08:29:53,938 No evidence found for accident_uuid: f6793b55-e4c5-42a8-8105-9d51be3128be
+ERROR 2025-05-24 08:32:30,567 No evidence found for accident_uuid: f6793b55-e4c5-42a8-8105-9d51be3128be
+ERROR 2025-05-24 08:32:55,979 Error retrieving complaints: Cannot resolve keyword 'section' into field. Choices are: action, created_at, created_at_offline, id, isHidden, name, rank, section_id, section_uuid, status, updated_at, updated_at_offline, userId, uuid
+ERROR 2025-05-24 08:35:39,248 Error retrieving complaints: Cannot resolve keyword 'section' into field. Choices are: action, created_at, created_at_offline, id, isHidden, name, rank, section_id, section_uuid, status, updated_at, updated_at_offline, userId, uuid
+ERROR 2025-05-24 08:35:52,050 Error retrieving complaints: Cannot resolve keyword 'section' into field. Choices are: action, created_at, created_at_offline, id, isHidden, name, rank, section_id, section_uuid, status, updated_at, updated_at_offline, userId, uuid
+ERROR 2025-05-24 08:36:49,482 Error retrieving complaints: Cannot resolve keyword 'section' into field. Choices are: action, created_at, created_at_offline, id, isHidden, name, rank, section_id, section_uuid, status, updated_at, updated_at_offline, userId, uuid
+ERROR 2025-05-24 08:37:30,042 No evidence found for accident_uuid: f6793b55-e4c5-42a8-8105-9d51be3128be
+ERROR 2025-05-24 08:54:19,255 No evidence found for accident_uuid: f6793b55-e4c5-42a8-8105-9d51be3128be
+ERROR 2025-05-24 08:55:53,531 No evidence found for accident_uuid: f6793b55-e4c5-42a8-8105-9d51be3128be
+ERROR 2025-05-24 08:56:08,804 No evidence found for accident_uuid: f6793b55-e4c5-42a8-8105-9d51be3128be
+ERROR 2025-05-24 11:47:14,607 No evidence found for accident_uuid: 82d0fcc1-8983-4708-9184-de764419ca72
+ERROR 2025-05-24 11:49:52,516 No evidence found for accident_uuid: 82d0fcc1-8983-4708-9184-de764419ca72
+ERROR 2025-05-24 11:52:10,012 No evidence found for accident_uuid: 82d0fcc1-8983-4708-9184-de764419ca72
+ERROR 2025-05-24 11:54:16,200 No evidence found for accident_uuid: 82d0fcc1-8983-4708-9184-de764419ca72
+ERROR 2025-05-24 11:55:16,756 No evidence found for accident_uuid: 82d0fcc1-8983-4708-9184-de764419ca72
+ERROR 2025-05-24 11:56:50,714 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-24 11:56:50,786 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-24 11:56:50,875 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-24 11:56:50,955 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-24 11:56:51,031 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-24 11:56:57,827 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-24 11:57:02,093 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-24 11:57:11,071 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:57:30,830 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:57:32,878 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:57:36,774 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:57:38,800 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:57:42,845 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:57:48,823 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:57:55,824 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:58:00,677 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:58:13,849 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:58:15,828 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:58:17,817 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:58:21,105 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:59:12,551 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:59:26,777 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:59:31,917 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:59:33,854 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:59:37,474 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 11:59:46,799 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 12:00:25,117 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 12:00:41,831 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 12:00:44,097 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 12:02:34,864 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-24 12:02:37,921 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 12:02:54,804 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 12:04:53,468 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-24 13:10:43,240 failed to find images for accident with this uuid
+ERROR 2025-05-24 13:10:44,468 failed to find images for accident with this uuid
+ERROR 2025-05-24 14:15:58,143 failed to find images for accident with this uuid
+ERROR 2025-05-25 09:46:50,097 failed to find images for accident with this uuid
+ERROR 2025-05-25 09:47:40,762 failed to find images for accident with this uuid
+ERROR 2025-05-25 09:48:06,452 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-25 09:48:10,587 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-25 09:48:10,680 No inspection forms found for incident_id: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-25 09:48:17,401 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-25 09:51:52,986 failed to find images for accident with this uuid
+ERROR 2025-05-25 09:52:15,645 failed to find images for accident with this uuid
+ERROR 2025-05-25 09:52:19,096 failed to find images for accident with this uuid
+ERROR 2025-05-25 10:47:42,580 failed to find images for accident with this uuid
+ERROR 2025-05-25 11:31:07,762 [] Unexpected error during device creation: Got a `TypeError` when calling `Device.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `Device.objects.create()`. You may need to make the field read-only, or override the DeviceSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Device() got unexpected keyword arguments: 'user'
+
+ERROR 2025-05-25 11:33:33,855 [] Unexpected error during device creation: Got a `TypeError` when calling `Device.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `Device.objects.create()`. You may need to make the field read-only, or override the DeviceSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Device() got unexpected keyword arguments: 'user'
+
+ERROR 2025-05-25 11:34:45,465 [] Unexpected error during device creation: Got a `TypeError` when calling `Device.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `Device.objects.create()`. You may need to make the field read-only, or override the DeviceSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Device() got unexpected keyword arguments: 'user'
+
+ERROR 2025-05-25 11:35:38,584 [] Unexpected error during device creation: Got a `TypeError` when calling `Device.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `Device.objects.create()`. You may need to make the field read-only, or override the DeviceSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Device() got unexpected keyword arguments: 'user'
+
+ERROR 2025-05-25 11:36:00,695 [] Unexpected error during device creation: Got a `TypeError` when calling `Device.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `Device.objects.create()`. You may need to make the field read-only, or override the DeviceSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Device() got unexpected keyword arguments: 'user'
+
+ERROR 2025-05-25 11:36:11,761 [] Unexpected error during device creation: Got a `TypeError` when calling `Device.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `Device.objects.create()`. You may need to make the field read-only, or override the DeviceSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Device() got unexpected keyword arguments: 'user'
+
+ERROR 2025-05-25 11:36:41,046 [] Unexpected error during device creation: Got a `TypeError` when calling `Device.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `Device.objects.create()`. You may need to make the field read-only, or override the DeviceSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Device() got unexpected keyword arguments: 'user'
+
+ERROR 2025-05-25 11:37:54,489 User registration failed: {'username': [ErrorDetail(string='custom user with this username already exists.', code='unique')]}
+ERROR 2025-05-25 11:38:11,877 [] Unexpected error during device creation: Got a `TypeError` when calling `Device.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `Device.objects.create()`. You may need to make the field read-only, or override the DeviceSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Device() got unexpected keyword arguments: 'user'
+
+ERROR 2025-05-25 11:38:50,309 [] Unexpected error during device creation: Got a `TypeError` when calling `Device.objects.create()`. This may be because you have a writable field on the serializer class that is not a valid argument to `Device.objects.create()`. You may need to make the field read-only, or override the DeviceSerializer.create() method to handle this correctly.
+Original exception was:
+ Traceback (most recent call last):
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\rest_framework\serializers.py", line 989, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\query.py", line 677, in create
+    obj = self.model(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Roaming\Python\Python312\site-packages\django\db\models\base.py", line 567, in __init__
+    raise TypeError(
+TypeError: Device() got unexpected keyword arguments: 'user'
+
+ERROR 2025-05-25 11:57:11,972 failed to find images for accident with this uuid
+ERROR 2025-05-25 13:04:48,655 [] Unexpected error during device creation: Cannot resolve keyword 'user' into field. Choices are: fcmToken, id, platformType, user_id, user_id_id
+ERROR 2025-05-25 13:04:51,791 [] Unexpected error during device creation: Cannot resolve keyword 'user' into field. Choices are: fcmToken, id, platformType, user_id, user_id_id
+ERROR 2025-05-25 13:07:32,454 [] Unexpected error during device creation: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x0000027F6F6A0C50>.
+ERROR 2025-05-25 13:07:36,599 [] Unexpected error during device creation: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x0000027F6F51F0B0>.
+ERROR 2025-05-25 13:09:30,045 [] Unexpected error during device creation: Cannot assign "<django.contrib.auth.models.AnonymousUser object at 0x0000017782B42C00>": "Device.user_id" must be a "CustomUser" instance.
+ERROR 2025-05-25 14:07:07,056 failed to find images for accident with this uuid
+ERROR 2025-05-25 14:07:16,587 failed to find images for accident with this uuid
+ERROR 2025-05-25 14:17:10,092 failed to find images for accident with this uuid
+ERROR 2025-05-26 09:03:01,606 failed to find images for accident with this uuid
+ERROR 2025-05-26 09:03:23,874 failed to find images for accident with this uuid
+ERROR 2025-05-26 09:03:41,249 failed to find images for accident with this uuid
+ERROR 2025-05-26 09:03:51,092 failed to find images for accident with this uuid
+ERROR 2025-05-26 09:25:59,495 failed to find images for accident with this uuid
+ERROR 2025-05-26 09:25:59,514 failed to find images for accident with this uuid
+ERROR 2025-05-26 11:13:28,781 failed to find images for accident with this uuid
+ERROR 2025-05-26 11:17:23,310 failed to find images for accident with this uuid
+ERROR 2025-05-26 11:29:54,454 failed to find images for accident with this uuid
+ERROR 2025-05-26 11:33:39,269 failed to find images for accident with this uuid
+ERROR 2025-05-26 11:37:34,013 failed to find images for accident with this uuid
+ERROR 2025-05-26 11:37:36,588 failed to find images for accident with this uuid
+ERROR 2025-05-26 11:37:41,519 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-26 11:37:41,564 No inspection forms found for incident_id: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-26 11:37:45,369 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-26 11:38:20,110 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-26 11:38:26,155 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-26 11:38:29,568 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-26 11:38:35,101 failed to find images for accident with this uuid
+ERROR 2025-05-26 11:38:39,891 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-26 11:38:45,229 failed to find images for accident with this uuid
+ERROR 2025-05-26 11:39:02,022 failed to find images for accident with this uuid
+ERROR 2025-05-26 11:43:38,956 failed to find images for accident with this uuid
+ERROR 2025-05-26 11:44:20,796 Update failed: relation "logs_notification" does not exist
+LINE 1: INSERT INTO "logs_notification" ("title", "body", "data", "r...
+                    ^
+
+ERROR 2025-05-27 08:20:56,803 failed to find images for accident with this uuid
+ERROR 2025-05-27 11:51:18,819 User registration failed: {'username': [ErrorDetail(string='custom user with this username already exists.', code='unique')]}
+ERROR 2025-05-27 13:43:37,140 failed to find images for accident with this uuid
+ERROR 2025-05-27 13:43:42,187 failed to find images for accident with this uuid
+ERROR 2025-05-28 08:22:51,587 failed to find images for accident with this uuid
+ERROR 2025-05-28 08:23:30,185 failed to find images for accident with this uuid
+ERROR 2025-05-28 08:25:04,697 failed to find images for accident with this uuid
+ERROR 2025-05-28 08:25:21,994 failed to find images for accident with this uuid
+ERROR 2025-05-28 08:25:35,446 failed to find images for accident with this uuid
+ERROR 2025-05-28 08:26:57,832 failed to find images for accident with this uuid
+ERROR 2025-05-28 09:05:17,271 failed to find images for accident with this uuid
+ERROR 2025-05-28 09:18:50,313 failed to find images for accident with this uuid
+ERROR 2025-05-28 10:05:20,809 Unexpected error during user creation: JSON parse error - Expecting property name enclosed in double quotes: line 6 column 1 (char 120)
+ERROR 2025-05-28 10:05:26,587 User registration failed: {'username': [ErrorDetail(string='custom user with this username already exists.', code='unique')]}
+ERROR 2025-05-28 10:10:29,617 Unexpected error during user creation: cannot access local variable 'user' where it is not associated with a value
+ERROR 2025-05-28 10:53:07,862 failed to find images for accident with this uuid
+ERROR 2025-05-28 11:04:07,901 failed to find images for accident with this uuid
+ERROR 2025-05-28 11:18:53,625 failed to find images for accident with this uuid
+ERROR 2025-05-28 11:19:22,298 failed to find images for accident with this uuid
+ERROR 2025-05-28 11:19:32,309 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-28 11:19:44,116 failed to find images for accident with this uuid
+ERROR 2025-05-28 11:20:56,252 failed to find images for accident with this uuid
+ERROR 2025-05-28 11:21:01,980 failed to find images for accident with this uuid
+ERROR 2025-05-28 12:01:51,997 Update failed: send_notification_to_devices() got an unexpected keyword argument 'message'
+ERROR 2025-05-28 12:02:41,087 Update failed: send_notification_to_devices() got an unexpected keyword argument 'reportUuid'
+ERROR 2025-05-28 12:20:40,239 Update failed: name 'send_notification_to_devices' is not defined
+ERROR 2025-05-28 12:21:32,715 Update failed: name 'firesend_notification_to_devices' is not defined
+ERROR 2025-05-28 12:45:50,793 Update failed: send_notification_to_device() got an unexpected keyword argument 'device_tokens'
+ERROR 2025-05-28 12:55:57,848 Update failed: send_notification_to_devices() got an unexpected keyword argument 'reportUuid'
+ERROR 2025-05-28 13:08:49,313 failed to find images for accident with this uuid
+ERROR 2025-05-28 13:08:55,841 failed to find images for accident with this uuid
+ERROR 2025-05-28 13:19:10,827 failed to find images for accident with this uuid
+ERROR 2025-05-28 13:45:04,575 failed to find images for accident with this uuid
+ERROR 2025-05-28 13:45:08,677 failed to find images for accident with this uuid
+ERROR 2025-05-28 13:58:22,437 failed to find images for accident with this uuid
+ERROR 2025-05-28 14:48:37,941 failed to find images for accident with this uuid
+ERROR 2025-05-29 08:56:52,066 failed to find images for accident with this uuid
+ERROR 2025-05-29 09:03:14,033 Update failed: type object 'Incident' has no attribute '_name_'
+ERROR 2025-05-29 09:05:16,317 Update failed: Cannot resolve keyword 'user_id_is_active' into field. Choices are: fcmToken, id, platformType, user_id, user_id_id
+ERROR 2025-05-29 09:06:01,559 Update failed: send_notification_to_device() got an unexpected keyword argument 'report_uuid'
+ERROR 2025-05-29 09:09:23,784 failed to find images for accident with this uuid
+ERROR 2025-05-29 09:10:12,764 failed to find accident with this uuid
+ERROR 2025-05-29 09:10:50,099 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-29 09:10:54,662 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:12:29,734 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-29 09:13:45,490 Invalid data provided for Evidence: {'userId': [ErrorDetail(string='Invalid pk "3" - object does not exist.', code='does_not_exist')]}
+ERROR 2025-05-29 09:14:10,644 User login failed: No active account found with the given credentials
+ERROR 2025-05-29 09:14:13,070 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-29 09:14:18,133 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-29 09:14:22,036 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:14:27,805 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-29 09:14:37,066 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:14:47,952 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-29 09:14:54,868 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-29 09:17:19,186 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-29 09:17:26,573 No evidence found for accident_uuid: 67ccb603-f4fb-47c6-a24e-8a99f1661e2c
+ERROR 2025-05-29 09:18:32,430 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:18:37,153 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:18:48,873 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:18:52,887 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:23:26,725 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:23:31,649 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:24:04,286 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:24:10,181 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:27:43,133 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:27:47,082 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:34:09,521 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:34:14,316 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:34:41,499 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:36:38,732 failed to find images for accident with this uuid
+ERROR 2025-05-29 09:38:55,220 failed to find images for accident with this uuid
+ERROR 2025-05-29 09:41:44,926 Update failed: Notification.__init__() got an unexpected keyword argument 'report_uuid'
+ERROR 2025-05-29 09:42:27,299 Update failed: Notification.__init__() got an unexpected keyword argument 'report_uuid'
+ERROR 2025-05-29 09:42:58,960 Update failed: Notification.__init__() got an unexpected keyword argument 'reportUuid'
+ERROR 2025-05-29 09:46:21,428 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:46:31,280 failed to find images for accident with this uuid
+ERROR 2025-05-29 09:46:39,867 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:46:45,960 failed to find images for accident with this uuid
+ERROR 2025-05-29 09:47:59,184 failed to find images for accident with this uuid
+ERROR 2025-05-29 09:48:07,366 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:48:08,721 failed to find images for accident with this uuid
+ERROR 2025-05-29 09:48:14,707 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 09:48:16,287 failed to find images for accident with this uuid
+ERROR 2025-05-29 09:50:41,449 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:01:06,655 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 10:01:10,485 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 10:02:04,843 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:04:50,397 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:05:46,661 No evidence found for accident_uuid: b0ff8e6f-6813-4f3f-a5b7-514b6b1b1e9d
+ERROR 2025-05-29 10:10:54,263 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:11:15,034 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:39:24,245 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:42:53,220 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-29 10:42:53,278 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-29 10:42:53,334 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-29 10:42:53,401 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-29 10:42:53,575 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-29 10:42:53,647 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-29 10:42:53,726 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-29 10:42:53,784 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-29 10:42:53,842 Invalid data provided for Complaint: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+ERROR 2025-05-29 10:43:04,787 No evidence found for accident_uuid: 87d67975-2b4a-45a7-97b8-0bdf02378b53
+ERROR 2025-05-29 10:43:06,356 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:44:37,597 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:45:22,912 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:45:43,049 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:45:45,836 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:45:49,303 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:45:51,377 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:56:22,876 No evidence found for accident_uuid: 87d67975-2b4a-45a7-97b8-0bdf02378b53
+ERROR 2025-05-29 10:56:24,595 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:56:26,846 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:59:31,963 No evidence found for accident_uuid: 87d67975-2b4a-45a7-97b8-0bdf02378b53
+ERROR 2025-05-29 10:59:33,862 failed to find images for accident with this uuid
+ERROR 2025-05-29 10:59:49,039 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:00:12,509 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:00:22,982 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:00:23,986 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:00:27,795 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:02:58,529 No evidence found for accident_uuid: 7ac0d85f-0407-4ee9-9be5-6177b2beecc2
+ERROR 2025-05-29 11:03:02,219 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:03:06,001 No evidence found for accident_uuid: 7ac0d85f-0407-4ee9-9be5-6177b2beecc2
+ERROR 2025-05-29 11:03:07,488 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:03:16,309 No evidence found for accident_uuid: 91801871-f6c7-4035-8a43-139c273690ee
+ERROR 2025-05-29 11:03:28,118 No evidence found for accident_uuid: 91801871-f6c7-4035-8a43-139c273690ee
+ERROR 2025-05-29 11:03:45,884 No evidence found for accident_uuid: 91801871-f6c7-4035-8a43-139c273690ee
+ERROR 2025-05-29 11:04:12,657 No evidence found for accident_uuid: 91801871-f6c7-4035-8a43-139c273690ee
+ERROR 2025-05-29 11:04:35,189 No evidence found for accident_uuid: 91801871-f6c7-4035-8a43-139c273690ee
+ERROR 2025-05-29 11:05:16,915 No evidence found for accident_uuid: 91801871-f6c7-4035-8a43-139c273690ee
+ERROR 2025-05-29 11:13:56,986 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:14:12,445 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:14:19,289 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:25:26,495 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:25:32,563 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:26:32,277 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:26:37,657 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:53:20,727 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:53:46,907 No evidence found for accident_uuid: c706e33e-4203-46a0-8062-38b161ee4db2
+ERROR 2025-05-29 11:53:52,723 No evidence found for accident_uuid: 91801871-f6c7-4035-8a43-139c273690ee
+ERROR 2025-05-29 11:58:58,118 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:58:59,608 failed to find images for accident with this uuid
+ERROR 2025-05-29 11:59:01,031 failed to find images for accident with this uuid
+ERROR 2025-05-29 12:03:01,217 failed to find images for accident with this uuid
+ERROR 2025-05-29 12:03:04,313 failed to find images for accident with this uuid
+ERROR 2025-05-29 12:08:28,704 failed to find images for accident with this uuid
+ERROR 2025-05-29 12:48:59,735 No evidence found for accident_uuid: 1c980312-469c-406d-bcc6-c5c56da57bfd
+ERROR 2025-05-29 13:01:28,161 failed to find images for accident with this uuid
+ERROR 2025-05-29 13:01:46,089 failed to find images for accident with this uuid
+ERROR 2025-05-29 13:11:18,696 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:11:18,859 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:11:19,010 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:11:19,152 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:11:19,320 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:11:19,475 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:11:39,300 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:11:39,410 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:11:39,535 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:11:39,647 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:11:39,772 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:11:39,888 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:14:25,029 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:14:25,178 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:14:25,329 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:14:25,501 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:14:25,645 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:14:25,775 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:18:16,220 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:18:16,391 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:18:16,544 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:18:16,689 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:18:16,851 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:18:17,005 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:18:29,031 failed to find images for accident with this uuid
+ERROR 2025-05-29 13:18:34,813 failed to find images for accident with this uuid
+ERROR 2025-05-29 13:19:31,230 failed to find images for accident with this uuid
+ERROR 2025-05-29 13:19:42,878 failed to find images for accident with this uuid
+ERROR 2025-05-29 13:21:04,533 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:21:04,673 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:21:04,844 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:21:04,972 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:21:05,128 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:21:05,265 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:22:56,966 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:22:57,145 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:22:57,271 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:22:57,424 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:22:57,564 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-29 13:22:57,732 Failed to upload images. Missing accident UUID or image.
+ERROR 2025-05-31 08:13:07,572 failed to find images for accident with this uuid
+ERROR 2025-05-31 08:19:40,688 failed to find images for accident with this uuid
+ERROR 2025-05-31 08:19:44,551 failed to find images for accident with this uuid
+ERROR 2025-05-31 08:19:46,389 failed to find images for accident with this uuid
+ERROR 2025-05-31 08:22:21,617 failed to find images for accident with this uuid
+ERROR 2025-05-31 13:03:40,762 failed to find images for accident with this uuid
+ERROR 2025-05-31 13:03:53,333 failed to find images for accident with this uuid
+ERROR 2025-05-31 13:04:00,603 failed to find images for accident with this uuid
+ERROR 2025-05-31 13:07:25,083 failed to find images for accident with this uuid
